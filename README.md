@@ -1282,7 +1282,7 @@ Contributors:
 
 -  contribution with { Taqa Abu Hammdan , Besan Abu Zraiq}  GitHub profile link:
 -  https://github.com/toqa2024
--  https://github.com/search?q=Besan-abu-zraiq&type=users
+-  https://github.com/besan-abu-zraiq
 
  Disclaimer
 
