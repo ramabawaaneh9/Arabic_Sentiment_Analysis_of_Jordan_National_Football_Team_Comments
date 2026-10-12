@@ -1,5 +1,5 @@
-Arabic Sentiment Anlaysis Of Jordan National Fotball Team  <img width="73" height="59" alt="image" src="https://github.com/user-attachments/assets/14a607dd-c572-4a69-af77-35e89c9e3c0c" />
- 
+<img width="73" height="59" alt="image" src="https://github.com/user-attachments/assets/14a607dd-c572-4a69-af77-35e89c9e3c0c" />
+Arabic Sentiment Anlaysis Of Jordan National Fotball Team 
 
  Arabic NLP, Transformer-Based Emotion Classification & Explainable AI
 
