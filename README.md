@@ -967,15 +967,15 @@ The interactive prediction loop terminates when the user enters:
 `خروج`
  Interactive Prediction and SHAP Visualization
 
-The pride comment shape exeplinathion
+The pride comment shape Explanation
 
 <img width="1233" height="737" alt="image" src="https://github.com/user-attachments/assets/b7cd3529-dcfa-4985-93f7-d106e180dd2f" />
 
-The Anger comment shape exeplinathion
+The Anger Comment Shape Explanation 
 
 <img width="1222" height="723" alt="image" src="https://github.com/user-attachments/assets/adc7fa07-7692-4896-9cf3-c8a29daaa628" />
 
-The Neutral comment shape exeplinathion
+The Neutral Comment Shape Explanation
 
 <img width="1222" height="717" alt="image" src="https://github.com/user-attachments/assets/1e4075dd-d7da-4618-97f8-16e4e5ecd0e4" />
 
