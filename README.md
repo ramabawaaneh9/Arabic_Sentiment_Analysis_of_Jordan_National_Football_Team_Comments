@@ -325,6 +325,8 @@ The analysis focuses on class distribution, frequently occurring words, and voca
 
 A class-distribution visualization is generated to examine the number of comments associated with each emotion.
 
+<img width="1069" height="595" alt="image" src="https://github.com/user-attachments/assets/461d52d9-741d-476a-8ec3-eaabe01ff355" />
+
 The results show that:
 
 - Pride is the most frequent emotion.
@@ -358,6 +360,8 @@ A trophy-shaped WordCloud mask is used to reflect the football-related context o
 | Pride | Green |
 | Anger | Orange |
 | Neutral | Purple |
+
+<img width="1883" height="1082" alt="download" src="https://github.com/user-attachments/assets/d1211cff-00c6-4e4c-b4ca-080eedadcd71" />
 
 The generated image is saved as:
 
@@ -1265,25 +1269,11 @@ Potential future research directions include:
 
 These improvements are proposed directions for future work and are not implemented modifications to the original project.
 
-
-
- Authors
-
-This project was developed collaboratively as a **university Natural Language Processing project**.
-
 Contributors:
 
-- Add contributor names and GitHub profile links here.
-
-University:
-
-- Add university name here.
-
-Course:
-
-- Natural Language Processing (NLP)
-
-
+-  contribution with { Taqa Abu Hammdan , Besan Abu Zraiq}  GitHub profile link:
+-  https://github.com/toqa2024
+-  
 
  Disclaimer
 
