@@ -363,12 +363,6 @@ A trophy-shaped WordCloud mask is used to reflect the football-related context o
 
 <img width="1883" height="1082" alt="download" src="https://github.com/user-attachments/assets/d1211cff-00c6-4e4c-b4ca-080eedadcd71" />
 
-The generated image is saved as:
-
-`arabic_wordcloud_by_emotion.png`
-
-Suggested Figure: Arabic WordCloud by Emotion
-
  3. Frequent Word Analysis
 
 The notebook examines frequently occurring words in the cleaned text.
@@ -386,12 +380,19 @@ The heatmaps complement the WordClouds by displaying word-frequency relationship
 Suggested Figures:
 
 - AraBERT Word–Emotion Heatmap
+- 
+- <img width="1193" height="1066" alt="image" src="https://github.com/user-attachments/assets/c5adfe88-d22a-4012-a5ec-e309a5a0a4b0" />
+
 - MARBERT Word–Emotion Heatmap
+-
+- <img width="1188" height="1059" alt="image" src="https://github.com/user-attachments/assets/f1794c55-9652-4737-a381-6d475fcd5781" />
+
 - ArabicBERT Word–Emotion Heatmap
 
+- <img width="1181" height="1059" alt="image" src="https://github.com/user-attachments/assets/e3e397be-d93c-43ef-bd64-f11bd645c7e1" />
+
+
 These visualizations are descriptive frequency analyses rather than direct explanations of Transformer model decisions.
-
-
 
  Data Splitting and Class Balancing
 
@@ -878,7 +879,6 @@ Suggested Figure: Pride SHAP Explanation
 Input Comment:
 
 > فرق عربيه ضعيفه
-
 Predicted Emotion: Anger
 
 Confidence: 99.70%
@@ -896,7 +896,6 @@ Suggested Figure: Anger SHAP Explanation
 Input Comment:
 
 > فوز اردني بنكهة مغربية
-
 Predicted Emotion: Neutral
 
 Confidence: 99.07%
@@ -967,12 +966,21 @@ The displayed confidence values are model-generated probabilities and should not
 The interactive prediction loop terminates when the user enters:
 
 `خروج`
+ Interactive Prediction and SHAP Visualization
 
-Suggested Figure: Interactive Prediction and SHAP Visualization
+The pride comment shape exeplinathion
 
+<img width="1233" height="737" alt="image" src="https://github.com/user-attachments/assets/b7cd3529-dcfa-4985-93f7-d106e180dd2f" />
 
+The Anger comment shape exeplinathion
 
- Key Findings
+<img width="1222" height="723" alt="image" src="https://github.com/user-attachments/assets/adc7fa07-7692-4896-9cf3-c8a29daaa628" />
+
+The Neutral comment shape exeplinathion
+
+<img width="1222" height="717" alt="image" src="https://github.com/user-attachments/assets/1e4075dd-d7da-4618-97f8-16e4e5ecd0e4" />
+
+ Key Findings:
 
 The experiments provide several observations regarding emotion classification in Arabic football-related comments.
 
