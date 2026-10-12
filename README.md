@@ -380,17 +380,16 @@ The heatmaps complement the WordClouds by displaying word-frequency relationship
 Suggested Figures:
 
 - AraBERT Word–Emotion Heatmap
-- 
+  
 - <img width="1193" height="1066" alt="image" src="https://github.com/user-attachments/assets/c5adfe88-d22a-4012-a5ec-e309a5a0a4b0" />
 
 - MARBERT Word–Emotion Heatmap
--
+  
 - <img width="1188" height="1059" alt="image" src="https://github.com/user-attachments/assets/f1794c55-9652-4737-a381-6d475fcd5781" />
 
 - ArabicBERT Word–Emotion Heatmap
 
 - <img width="1181" height="1059" alt="image" src="https://github.com/user-attachments/assets/e3e397be-d93c-43ef-bd64-f11bd645c7e1" />
-
 
 These visualizations are descriptive frequency analyses rather than direct explanations of Transformer model decisions.
 
