@@ -1,4 +1,4 @@
-<img width="73" height="59" alt="image" src="https://github.com/user-attachments/assets/14a607dd-c572-4a69-af77-35e89c9e3c0c" />
+<img width="400" height="300" alt="225123" src="https://github.com/user-attachments/assets/33b0afad-2884-4c4d-834b-1d06310f9810" />
 
 Arabic Sentiment Anlaysis Of Jordan National Football Team 
 
